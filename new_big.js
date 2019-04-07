@@ -9,7 +9,7 @@ const moment = require("moment");
 const rp = require("request-promise");
 
 console.log("#################################");
-console.log("  BANG DREAM! GIRLS BAND PARTY!  ");
+console.log("       MHD POWER TEAM 2000       ");
 console.log("#################################");
 
 console.log("");
